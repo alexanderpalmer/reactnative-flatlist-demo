@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import {
-  Aert, ActivityIndicator, StatusBar,
+  ActivityIndicator, StatusBar,
   SafeAreaView, StyleSheet, Text, Alert,
 } from 'react-native';
 import ItemList from './components/ItemList';
